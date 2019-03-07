@@ -7,4 +7,4 @@ This repository have all pilot projects which are used in the ebook: [Building A
 
 ## Author
 
-Caio Ribeiro Pereira - [https://crpwebdev.github.io](https://crpwebdev.github.io)
+AGOGE
